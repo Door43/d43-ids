@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ids:home|Door43 (ids)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ids|d43-ids repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ids/archive/master.zip|d43-ids.zip]]
+
+**Recent Changes**
+{{changes>ns = ids}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ids|Ethnologue data]]
+
